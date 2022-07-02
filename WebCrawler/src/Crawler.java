@@ -83,5 +83,8 @@ public class Crawler {
 		return count1++;
 
 	}
+public void print(){
+		System.out.println("this is new changes");
+}
 
 }
